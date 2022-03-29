@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923439192702",
+    "project_id": "applore-e756b",
+    "storage_bucket": "applore-e756b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923439192702:android:d48952c30f0a84869b962f",
+        "android_client_info": {
+          "package_name": "com.example.applore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923439192702-cpr9rfbd4ft25r4i7bgbqqeamr7m9fgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpo8D1js9B3ZrRXu7Ptn0DtBInUjvEw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923439192702-cpr9rfbd4ft25r4i7bgbqqeamr7m9fgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
